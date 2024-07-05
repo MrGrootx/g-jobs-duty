@@ -22,8 +22,8 @@
 - Delete/Reset cooldowns
 - You can set a separate log channel for each job
 
-**Preview** - : <https://www.youtube.com/watch?v=wWS5G3bLjJ4> <br>
-**Purchase Link** : https://groot-development.tebex.io/package/6337446
+📦 **Preview** - : <https://www.youtube.com/watch?v=wWS5G3bLjJ4> <br>
+🛒 **Purchase Link** : https://groot-development.tebex.io/package/6337446
 
 **Config** 
 ![code3](https://github.com/MrGrootx/g-jobs-duty/assets/113226362/06471c86-3e09-49a5-aefe-6790aaeb24f0)
