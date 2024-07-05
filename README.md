@@ -20,7 +20,7 @@
 - Enable/disable delete button
 - Enable/disable reset duty time button
 - Delete/Reset cooldowns
-- Logs
+- You can set a separate log channel for each job
 
 **Preview** - : <https://www.youtube.com/watch?v=wWS5G3bLjJ4> <br>
 **Purchase Link** : https://groot-development.tebex.io/package/6337446
